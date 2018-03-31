@@ -6,7 +6,7 @@
     version     = "1.0.0" >
 
 
-  <name>UI Test</name>
+  <name>MUI Test</name>
 
   <description>
       UI framework test for university project.
